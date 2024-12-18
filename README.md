@@ -7,7 +7,7 @@ EcoStep is a user-friendly web application designed to help users calculate and 
 - **Frontend**: React, Vite
 - **Backend**: Node.js
 - **AI & Vector Storage**: IBM WatsonX AI, FAISS, LangChain
-## 🎥 Video Demo
+## 🎥 Video Demo(watch On -0.85X)
 
 [![Alt text](https://img.youtube.com/vi/aRjYWDOkU6U/0.jpg)](https://youtu.be/aRjYWDOkU6U)
 
